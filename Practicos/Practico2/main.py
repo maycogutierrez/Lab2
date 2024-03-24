@@ -1,3 +1,6 @@
+#Ejercicio:
+#Escribe un programa en Python que lea el archivo datos.txt, calcule el promedio de las edades y luego escriba el nombre de cada persona #junto con un mensaje que indique si son mayores o menores que el promedio de edad en otro archivo llamado resultado.txt.
+
 archivo = open("D:\\Escritorio\\Uni 2024\\Lab2\\Practicos\\Practico2\\datos.txt", "r")
 lineas = archivo.readlines()
 
