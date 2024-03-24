@@ -4,3 +4,5 @@ lineas = archivo.readlines()
 for linea in lineas:
     datos = linea.strip().split(',')
     print(f"Juego: {datos[0]} con Calificación {datos[1]} y Precio {datos[2]}")
+
+archivo.close()

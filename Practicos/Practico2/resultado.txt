@@ -1,0 +1,5 @@
+Juan es menor que el promedio de edad.
+Maria es mayor que el promedio de edad.
+Carlos tiene la misma edad que el promedio de edad.
+Ana es menor que el promedio de edad.
+Pedro es mayor que el promedio de edad.
